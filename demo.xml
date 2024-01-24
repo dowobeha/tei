@@ -288,8 +288,8 @@
                     
                     <label>5<pc join="left">.</pc></label>
                     <item>una<lb/>
-                        Kulusiim<lb/>
-                        atakaa
+                          Kulusiim<lb/>
+                          atakaa
                     </item><lb/>
                     
                     <label>6<pc join="left">.</pc></label> <item>naakaa</item><lb/>
@@ -304,8 +304,8 @@
                     
                     <label>18<pc join="left">.</pc></label>
                     <item>atankuk<lb/>
-                        naankuk<lb/>
-                        neghtuk
+                          naankuk<lb/>
+                          neghtuk
                     </item><lb/>
                     
                     <label>21<pc join="left">.</pc></label> <item>qikmii</item><lb/>
@@ -317,28 +317,28 @@
             <pb n=""/>
             <div xml:lang="eng-us">
                 <list type="translation" xml:lang="eng-us">
-                    <label>1<pc join="left">.</pc></label> <item>Kulusiq</item>
-                    <label>2<pc join="left">.</pc></label> <item>The father</item>
-                    <label>3<pc join="left">.</pc></label> <item>The mother</item>
-                    <label>4<pc join="left">.</pc></label> <item>The dog</item>
-                    <label>5<pc join="left">.</pc></label> <item>This is Kulusiq<pc join="both">’</pc>s father<pc join="left">.</pc></item>
-                    <label>6<pc join="left">.</pc></label> <item>This is Kulusiq<pc join="both">’</pc>s mother<pc join="left">.</pc></item>
-                    <label>7<pc join="left">.</pc></label> <item>This is the father<pc join="both">’</pc>s dog<pc join="left">.</pc></item>
-                    <label>8<pc join="left">.</pc></label> <item>This is Kulusiq<pc join="both">’</pc>s dog<pc join="left">.</pc></item>
-                    <label>9<pc join="left">.</pc></label> <item>Come<pc join="left">,</pc> Kulusiq<pc join="left">!</pc> Come<pc join="left">!</pc></item>
-                    <label>10<pc join="left">.</pc></label> <item>Kulusiq comes<pc join="left">.</pc></item>
-                    <label>11<pc join="left">.</pc></label> <item>The father comes<pc join="left">.</pc></item>
-                    <label>12<pc join="left">.</pc></label> <item>The dog comes also<pc join="left">.</pc></item>
-                    <label>13<pc join="left">.</pc></label> <item>Eat Kulusiq<pc join="left">,</pc> eat<pc join="left">!</pc></item>
-                    <label>14<pc join="left">.</pc></label> <item>Eat this<pc join="left">.</pc></item>
-                    <label>15<pc join="left">.</pc></label> <item>Kulusiq eats<pc join="left">.</pc></item>
-                    <label>16<pc join="left">.</pc></label> <item>The father eats<pc join="left">.</pc></item>
-                    <label>17<pc join="left">.</pc></label> <item>The mother eats<pc join="left">.</pc></item>
-                    <label>18<pc join="left">.</pc></label> <item>The father and mother eat<pc join="left">.</pc></item>
-                    <label>19<pc join="left">.</pc></label> <item>Eat<pc join="left">,</pc> dog<pc join="left">,</pc> eat<pc join="left">!</pc></item>
-                    <label>20<pc join="left">.</pc></label> <item>The dog eats<pc join="left">.</pc></item>
-                    <label>21<pc join="left">.</pc></label> <item>The father<pc join="both">’</pc>s dog eats<pc join="left">.</pc></item>
-                    <label>22<pc join="left">.</pc></label> <item>Kulusiq<pc join="both">’</pc>s dog eats also<pc join="left">.</pc></item>
+                    <label>1<pc join="left">.</pc></label> <item>Kulusiq</item><lb />
+                    <label>2<pc join="left">.</pc></label> <item>The father</item><lb/>
+                    <label>3<pc join="left">.</pc></label> <item>The mother</item><lb/>
+                    <label>4<pc join="left">.</pc></label> <item>The dog</item><lb/>
+                    <label>5<pc join="left">.</pc></label> <item>This is Kulusiq<pc join="both">’</pc>s father<pc join="left">.</pc></item><lb/>
+                    <label>6<pc join="left">.</pc></label> <item>This is Kulusiq<pc join="both">’</pc>s mother<pc join="left">.</pc></item><lb/>
+                    <label>7<pc join="left">.</pc></label> <item>This is the father<pc join="both">’</pc>s dog<pc join="left">.</pc></item><lb/>
+                    <label>8<pc join="left">.</pc></label> <item>This is Kulusiq<pc join="both">’</pc>s dog<pc join="left">.</pc></item><lb/>
+                    <label>9<pc join="left">.</pc></label> <item>Come<pc join="left">,</pc> Kulusiq<pc join="left">!</pc> Come<pc join="left">!</pc></item><lb/>
+                    <label>10<pc join="left">.</pc></label> <item>Kulusiq comes<pc join="left">.</pc></item><lb/>
+                    <label>11<pc join="left">.</pc></label> <item>The father comes<pc join="left">.</pc></item><lb/>
+                    <label>12<pc join="left">.</pc></label> <item>The dog comes also<pc join="left">.</pc></item><lb/>
+                    <label>13<pc join="left">.</pc></label> <item>Eat Kulusiq<pc join="left">,</pc> eat<pc join="left">!</pc></item><lb/>
+                    <label>14<pc join="left">.</pc></label> <item>Eat this<pc join="left">.</pc></item><lb/>
+                    <label>15<pc join="left">.</pc></label> <item>Kulusiq eats<pc join="left">.</pc></item><lb/>
+                    <label>16<pc join="left">.</pc></label> <item>The father eats<pc join="left">.</pc></item><lb/>
+                    <label>17<pc join="left">.</pc></label> <item>The mother eats<pc join="left">.</pc></item><lb/>
+                    <label>18<pc join="left">.</pc></label> <item>The father and mother eat<pc join="left">.</pc></item><lb/>
+                    <label>19<pc join="left">.</pc></label> <item>Eat<pc join="left">,</pc> dog<pc join="left">,</pc> eat<pc join="left">!</pc></item><lb/>
+                    <label>20<pc join="left">.</pc></label> <item>The dog eats<pc join="left">.</pc></item><lb/>
+                    <label>21<pc join="left">.</pc></label> <item>The father<pc join="both">’</pc>s dog eats<pc join="left">.</pc></item><lb/>
+                    <label>22<pc join="left">.</pc></label> <item>Kulusiq<pc join="both">’</pc>s dog eats also<pc join="left">.</pc></item><lb/>
                 </list>
             </div>
             
