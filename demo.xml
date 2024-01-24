@@ -197,7 +197,7 @@
             </div>
             
             
-            <pb n="" xml:id="SY970B1972d/front-titlePage-eng" />
+            <pb n="ii" xml:id="SY970B1972d/front-titlePage-eng" />
             <div type="titlePage" xml:lang="eng-us">
                 <head xml:lang="eng-us">
                     <title type="main" xml:lang="eng-us">Kulusiq and His Family</title>
@@ -245,7 +245,7 @@
         
         
         <body xml:lang="ess-us">
-            <pb n="0"/><div><head>Kulusiinkut</head></div>
+            <pb n="iii"/><div><head>Kulusiinkut</head></div>
             
             <pb n="1" /><div type="page" n="1" ><p><graphic url="https://dowobeha.github.io/tei/SY970B1972d/p0001.png"/><s>Kulusiq</s></p></div>
             <pb n="2" /><div type="page" n="2" ><p><graphic url="https://dowobeha.github.io/tei/SY970B1972d/p0002.png"/><s>Ata</s></p></div>
@@ -275,7 +275,7 @@
         
         <back>
             
-            <pb/>
+            <pb n="23"/>
             <div xml:lang="ess-us">
                 <p>Akuzillghet Atuqegkat Igani Ukuni</p>
                 
@@ -314,7 +314,7 @@
                 
             </div>
             
-            <pb/>
+            <pb n="24"/>
             <div xml:lang="eng-us">
                 <list type="translation" xml:lang="eng-us">
                     <label>1<pc join="left">.</pc></label> <item>Kulusiq</item>
