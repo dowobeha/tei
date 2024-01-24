@@ -99,7 +99,7 @@ tei-doctitle>tei-titlepart {
   text-align: center;
 }
 tei-doctitle>tei-titlepart[type=main] {
-  font-size: 3em;
+  font-size: 6em;
 }
 tei-doctitle>tei-titlepart[type=subtitle] {
   font-size: 2em;
