@@ -52,11 +52,11 @@
 
 * {
     font-family: 'Mooli';
-    font-size: 200%;
 }
 
 p.break {
   font-family: 'Mooli';
+  font-size: 80%;
   border-top: thin solid silver;
   color: gray;
 }
@@ -87,7 +87,7 @@ tei-docauthor {
 }
 tei-docauthor>tei-name {
   display: block;
-  font-size: 4em;
+  font-size: 2em;
 }
 tei-docimprint {
   display: block;
@@ -99,10 +99,10 @@ tei-doctitle>tei-titlepart {
   text-align: center;
 }
 tei-doctitle>tei-titlepart[type=main] {
-  font-size: 6em;
+  font-size: 3em;
 }
 tei-doctitle>tei-titlepart[type=subtitle] {
-  font-size: 4em;
+  font-size: 2em;
 }
 tei-emph[rend=bold] {
   font-weight: bold;
@@ -114,6 +114,7 @@ tei-figure {
   text-align: center;
 }
 tei-figure>tei-p {
+  font-size: 80%;
   font-family: 'Mooli';
   text-align: center;
 }
