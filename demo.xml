@@ -157,7 +157,7 @@
 
         <front>
 
-            <pb n="" xml:id="SY970B1972d/front-cover"/>
+            <pb n="cover" />
             <titlePage type="cover" xml:lang="ess-us">
                 <docTitle>
                     <titlePart xml:lang="ess-us">KULUSIINKUT</titlePart>
@@ -166,7 +166,7 @@
             </titlePage>
 
 
-            <pb xml:id="SY970B1972d/front-titlePage-ess" />
+            <pb n="i" />
             <div type="titlePage" xml:lang="ess-us">
                 <head xml:lang="ess-us">
                     <title type="main" xml:lang="ess-us">KULUSIINKUT</title>
@@ -245,7 +245,7 @@
         
         
         <body xml:lang="ess-us">
-            <pb n=""/><div><head>Kulusiinkut</head></div>
+            <pb n="0"/><div><head>Kulusiinkut</head></div>
             
             <pb n="1" /><div type="page" n="1" ><p><graphic url="https://dowobeha.github.io/tei/SY970B1972d/p0001.png"/><s>Kulusiq</s></p></div>
             <pb n="2" /><div type="page" n="2" ><p><graphic url="https://dowobeha.github.io/tei/SY970B1972d/p0002.png"/><s>Ata</s></p></div>
