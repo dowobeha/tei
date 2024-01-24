@@ -182,7 +182,7 @@ var CETEI = (function () {
       ],
       "graphic": function(elt) {
         let content = new Image();
-        content.src = this.rw(elt.getAttribute("url"));
+        content.src = elt.getAttribute("url"); //this.rw(elt.getAttribute("url"));
         if (elt.hasAttribute("width")) {
           content.setAttribute("width",elt.getAttribute("width"));
         }
