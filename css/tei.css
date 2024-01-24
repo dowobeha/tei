@@ -1,12 +1,11 @@
-@import url('https://fonts.googleapis.com/css2?family=InclusiveSans')
-
+@import url('https://fonts.googleapis.com/css2?family=Onest')
 
 * {
-    font-family: InclusiveSans;
+    font-family: Onest;
 }
 
 p.break {
-  font-family: InclusiveSans, Arial, Helvetica, sans-serif;
+  font-family: Onest;
   font-size: 80%;
   border-top: thin solid silver;
   color: gray;
@@ -66,7 +65,7 @@ tei-figure {
 }
 tei-figure>tei-p {
   font-size: 80%;
-  font-family: InclusiveSans, Arial, Helvetica, sans-serif;
+  font-family: Onest;
   text-align: center;
 }
 tei-hi[rend=italics] {
