@@ -157,19 +157,19 @@
 
         <front>
 
-            <pb n="cover" />
+            <pb n=" " />
             <titlePage type="cover" xml:lang="ess-us">
                 <docTitle>
-                    <titlePart xml:lang="ess-us">KULUSIINKUT</titlePart>
+                    <titlePart xml:lang="ess-us">KULUSIINKUT n is space</titlePart>
                 </docTitle>
                 <graphic url="https://dowobeha.github.io/tei/SY970B1972d/cover.png" />
             </titlePage>
 
 
-            <pb n="i" />
+            <pb n="" />
             <div type="titlePage" xml:lang="ess-us">
                 <head xml:lang="ess-us">
-                    <title type="main" xml:lang="ess-us">KULUSIINKUT</title>
+                    <title type="main" xml:lang="ess-us">KULUSIINKUT n is empty</title>
                     <graphic url="https://dowobeha.github.io/tei/SY970B1972d/title.png" />
                     <title type="sub" xml:lang="ess-us">Liinnaqsuwhaallghet</title>
                 </head>
